@@ -1,6 +1,9 @@
 Generador apis: https://rapidapi.com/
+
 Generador de id para utilizar rapidapi: https://commentpicker.com/
+
 Deploy:
+
 npm install gh-pages --save-dev
 
 <img width="2240" alt="Captura de Pantalla 2023-03-18 a la(s) 19 08 00" src="https://user-images.githubusercontent.com/77559097/226148494-5f399e7d-ee7c-4a91-827b-718480961d6f.png">

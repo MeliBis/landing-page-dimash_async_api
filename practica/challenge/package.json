@@ -1,0 +1,15 @@
+{
+  {
+    "scropts": {
+      "calback":"node src/callback/challenge.js"
+    },
+  },
+    "keywords": [
+    "javascript"
+  ],
+    "author": "Melissa Barrios",
+    "license": "MIT",
+    "dependencies": {
+      "xmlhttprequest": "^1.8.0"
+    },
+}
